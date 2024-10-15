@@ -5,7 +5,7 @@ html, body {
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    color: #f5f6f7;
+    color: #F0D2D1;
 }
 
 p {
@@ -36,7 +36,7 @@ a {
 
 .bg-1 {
     background-color: #ffffff; /* White */
-    color: #F0D2D1;
+    color: #ffffff;
 }
 
 .bg-2 {
